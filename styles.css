@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+}
+#name {
+    background-image: url(shirt%20bg.jpg.png);
+    background-color: black;
+    text-align: center;
+    align-content: center;
+    height: 940px;
+    vertical-align: middle;
+    padding-top: 400px;
+    font-family: blockhead-plain, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+h1 {
+    font-size: 3em;
+}
+.card {
+    text-align: justify;
+}
